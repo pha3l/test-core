@@ -1,0 +1,10 @@
+/Users/luke/testraz/bin/Debug/netcoreapp2.0/testraz.deps.json
+/Users/luke/testraz/bin/Debug/netcoreapp2.0/testraz.runtimeconfig.json
+/Users/luke/testraz/bin/Debug/netcoreapp2.0/testraz.runtimeconfig.dev.json
+/Users/luke/testraz/bin/Debug/netcoreapp2.0/testraz.dll
+/Users/luke/testraz/bin/Debug/netcoreapp2.0/testraz.pdb
+/Users/luke/testraz/obj/Debug/netcoreapp2.0/testraz.csproj.CoreCompileInputs.cache
+/Users/luke/testraz/obj/Debug/netcoreapp2.0/testraz.AssemblyInfoInputs.cache
+/Users/luke/testraz/obj/Debug/netcoreapp2.0/testraz.AssemblyInfo.cs
+/Users/luke/testraz/obj/Debug/netcoreapp2.0/testraz.dll
+/Users/luke/testraz/obj/Debug/netcoreapp2.0/testraz.pdb
